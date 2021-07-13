@@ -1,7 +1,5 @@
 # About Me
-Im just a 13 year old boy 
-I like coding and shit
-Nothing else you can call me boring
+"Interesting as it seems"
 
 ##  📊 **Github Stats**
 
